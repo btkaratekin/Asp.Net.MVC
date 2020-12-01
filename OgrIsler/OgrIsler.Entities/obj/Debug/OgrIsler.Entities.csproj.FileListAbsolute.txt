@@ -1,0 +1,12 @@
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.Entities\bin\Debug\OgrIsler.Entities.dll
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.Entities\bin\Debug\OgrIsler.Entities.pdb
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.Entities\bin\Debug\OgrIsler.Core.dll
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.Entities\bin\Debug\EntityFramework.dll
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.Entities\bin\Debug\OgrIsler.Core.pdb
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.Entities\bin\Debug\OgrIsler.Core.dll.config
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.Entities\bin\Debug\EntityFramework.xml
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.Entities\obj\Debug\OgrIsler.Entities.csprojAssemblyReference.cache
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.Entities\obj\Debug\OgrIsler.Entities.csproj.CoreCompileInputs.cache
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.Entities\obj\Debug\OgrIsler.Entities.csproj.CopyComplete
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.Entities\obj\Debug\OgrIsler.Entities.dll
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.Entities\obj\Debug\OgrIsler.Entities.pdb
