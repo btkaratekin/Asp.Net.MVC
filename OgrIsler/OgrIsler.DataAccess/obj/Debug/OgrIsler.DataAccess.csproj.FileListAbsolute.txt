@@ -15,6 +15,5 @@ D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.DataAccess\obj\Debug\OgrIsler
 D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.DataAccess\obj\Debug\OgrIsler.DataAccess.csproj.CopyComplete
 D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.DataAccess\obj\Debug\OgrIsler.DataAccess.dll
 D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.DataAccess\obj\Debug\OgrIsler.DataAccess.pdb
-D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.DataAccess\obj\Debug\OgrIsler.DataAccess.Migrations.FirstMigration.resources
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.DataAccess\obj\Debug\OgrIsler.DataAccess.Migrations.FirstCreate.resources
 D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.DataAccess\obj\Debug\OgrIsler.DataAccess.csproj.GenerateResource.cache
-D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.DataAccess\obj\Debug\OgrIsler.DataAccess.Migrations.ProgramAdded.resources

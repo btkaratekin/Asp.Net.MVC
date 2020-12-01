@@ -43,6 +43,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Concrete\OgrBilgi.cs" />
+    <Compile Include="Concrete\OgrBolum.cs" />
+    <Compile Include="Concrete\OgrDanisman.cs" />
     <Compile Include="Concrete\OgrOkul.cs" />
     <Compile Include="Concrete\OgrProgram.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

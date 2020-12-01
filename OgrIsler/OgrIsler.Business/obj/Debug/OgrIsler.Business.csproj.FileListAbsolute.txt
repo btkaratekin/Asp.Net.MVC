@@ -1,0 +1,6 @@
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.Business\bin\Debug\OgrIsler.Business.dll
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.Business\bin\Debug\OgrIsler.Business.pdb
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.Business\obj\Debug\OgrIsler.Business.csprojAssemblyReference.cache
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.Business\obj\Debug\OgrIsler.Business.csproj.CoreCompileInputs.cache
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.Business\obj\Debug\OgrIsler.Business.dll
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.Business\obj\Debug\OgrIsler.Business.pdb

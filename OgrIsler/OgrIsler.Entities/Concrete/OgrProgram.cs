@@ -11,11 +11,12 @@ namespace OgrIsler.Entities.Concrete
    public class OgrProgram:IEntity
     {
         [Key,StringLength(3)]
-        public string pkodu { get; set; }
+        public string Pkodu { get; set; }
         [Required]
-        public string padi { get; set; }
+        public string Padi { get; set; }
 
-        public virtual List<OgrOkul> ogrOkuls { get; set; }
+        public virtual IList<OgrOkul> ogrOkuls { get; set; }
+        public virtual OgrBolum Bkodu { get; set; }
 
     }
 }

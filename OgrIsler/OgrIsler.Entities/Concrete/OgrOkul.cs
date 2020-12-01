@@ -13,6 +13,6 @@ namespace OgrIsler.Entities.Concrete
 
         public virtual OgrBilgi ogrBilgi { get; set; }
         public virtual OgrProgram ogrProgram { get; set; }
-
+        public virtual OgrDanisman ogrDanisman { get; set; }
     }
 }

@@ -52,13 +52,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Concrete\OgrIslerDbContext.cs" />
-    <Compile Include="Migrations\202012012154320_FirstMigration.cs" />
-    <Compile Include="Migrations\202012012154320_FirstMigration.designer.cs">
-      <DependentUpon>202012012154320_FirstMigration.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202012012208330_ProgramAdded.cs" />
-    <Compile Include="Migrations\202012012208330_ProgramAdded.designer.cs">
-      <DependentUpon>202012012208330_ProgramAdded.cs</DependentUpon>
+    <Compile Include="Migrations\202012012353136_FirstCreate.cs" />
+    <Compile Include="Migrations\202012012353136_FirstCreate.designer.cs">
+      <DependentUpon>202012012353136_FirstCreate.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -77,11 +73,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202012012154320_FirstMigration.resx">
-      <DependentUpon>202012012154320_FirstMigration.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202012012208330_ProgramAdded.resx">
-      <DependentUpon>202012012208330_ProgramAdded.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202012012353136_FirstCreate.resx">
+      <DependentUpon>202012012353136_FirstCreate.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

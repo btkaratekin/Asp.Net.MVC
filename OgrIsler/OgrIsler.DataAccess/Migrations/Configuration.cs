@@ -9,8 +9,9 @@
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = true;
-           
+            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationDataLossAllowed = true;
+            
         }
 
         protected override void Seed(OgrIsler.DataAccess.Concrete.OgrIslerDbContext context)
