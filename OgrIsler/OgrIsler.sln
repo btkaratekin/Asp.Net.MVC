@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgrIsler.WebUI", "OgrIsler.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgrIsler.WebUI.Tests", "OgrIsler.WebUI.Tests\OgrIsler.WebUI.Tests.csproj", "{1097E96B-6419-4003-95B0-CFBF8D6BF683}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgrIsler.Entities", "OgrIsler.Entities\OgrIsler.Entities.csproj", "{93F41A07-F63B-403A-AA98-A2C9CC986171}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1097E96B-6419-4003-95B0-CFBF8D6BF683}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1097E96B-6419-4003-95B0-CFBF8D6BF683}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1097E96B-6419-4003-95B0-CFBF8D6BF683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93F41A07-F63B-403A-AA98-A2C9CC986171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93F41A07-F63B-403A-AA98-A2C9CC986171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93F41A07-F63B-403A-AA98-A2C9CC986171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93F41A07-F63B-403A-AA98-A2C9CC986171}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
