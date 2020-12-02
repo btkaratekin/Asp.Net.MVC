@@ -19,6 +19,7 @@ namespace OgrIsler.DataAccess.Concrete
         {
 
         }
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Entity<OgrBilgi>().ToTable("OgrBilgi");
@@ -32,5 +33,6 @@ namespace OgrIsler.DataAccess.Concrete
             modelBuilder.Entity<OgrDanisman>().HasRequired(Od => Od.Bkodu).WithMany(b => b.ogrDanismans).Map(m => m.MapKey("Bkodu"));
             modelBuilder.Entity<OgrOkul>().HasRequired(o => o.ogrDanisman).WithMany(d => d.OgrOkuls).Map(m => m.MapKey("Dkodu"));
         }
+
     }
 }

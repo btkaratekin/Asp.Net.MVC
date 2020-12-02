@@ -52,7 +52,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abstract\IOgrBilgiDal.cs" />
+    <Compile Include="Abstract\IOgrBolumDal.cs" />
+    <Compile Include="Abstract\IOgrDanismanDal.cs" />
+    <Compile Include="Abstract\IOgrOkulDal.cs" />
+    <Compile Include="Abstract\IOgrProgramDal.cs" />
     <Compile Include="Concrete\EntityFrameWork\OgrBilgiDal.cs" />
+    <Compile Include="Concrete\EntityFrameWork\OgrBolumDal.cs" />
+    <Compile Include="Concrete\EntityFrameWork\OgrDanismanDal.cs" />
+    <Compile Include="Concrete\EntityFrameWork\OgrOkulDal.cs" />
+    <Compile Include="Concrete\EntityFrameWork\OgrProgramDal.cs" />
     <Compile Include="Concrete\OgrIslerDbContext.cs" />
     <Compile Include="Migrations\202012012353136_FirstCreate.cs" />
     <Compile Include="Migrations\202012012353136_FirstCreate.designer.cs">
