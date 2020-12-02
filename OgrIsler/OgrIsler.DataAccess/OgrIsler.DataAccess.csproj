@@ -51,6 +51,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract\IOgrBilgiDal.cs" />
+    <Compile Include="Concrete\EntityFrameWork\OgrBilgiDal.cs" />
     <Compile Include="Concrete\OgrIslerDbContext.cs" />
     <Compile Include="Migrations\202012012353136_FirstCreate.cs" />
     <Compile Include="Migrations\202012012353136_FirstCreate.designer.cs">
@@ -63,10 +65,12 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="Abstract\" />
-  </ItemGroup>
-  <ItemGroup>
+    <ProjectReference Include="..\OgrIsler.Core\OgrIsler.Core.csproj">
+      <Project>{471b2bf8-3bc0-4fac-85a1-02b9b61926ef}</Project>
+      <Name>OgrIsler.Core</Name>
+    </ProjectReference>
     <ProjectReference Include="..\OgrIsler.Entities\OgrIsler.Entities.csproj">
       <Project>{93f41a07-f63b-403a-aa98-a2c9cc986171}</Project>
       <Name>OgrIsler.Entities</Name>
