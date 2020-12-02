@@ -33,3 +33,6 @@ D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.WebUI.Tests\obj\Debug\OgrIsle
 D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.WebUI.Tests\obj\Debug\OgrIsler.WebUI.Tests.csproj.CopyComplete
 D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.WebUI.Tests\obj\Debug\OgrIsler.WebUI.Tests.dll
 D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.WebUI.Tests\obj\Debug\OgrIsler.WebUI.Tests.pdb
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.WebUI.Tests\bin\Debug\WebGrease.dll
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\Exercises\Asp.Net\Asp.Net.MVC\OgrIsler\OgrIsler.WebUI.Tests\bin\Debug\Antlr3.Runtime.pdb

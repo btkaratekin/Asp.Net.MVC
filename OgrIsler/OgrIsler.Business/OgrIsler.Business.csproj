@@ -41,20 +41,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract\IOgrBilgiService.cs" />
+    <Compile Include="Concrete\OgrBilgiService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\OgrIsler.Core\OgrIsler.Core.csproj">
+      <Project>{471B2BF8-3BC0-4FAC-85A1-02B9B61926EF}</Project>
+      <Name>OgrIsler.Core</Name>
+    </ProjectReference>
     <ProjectReference Include="..\OgrIsler.DataAccess\OgrIsler.DataAccess.csproj">
       <Project>{aa13a853-c85f-4c50-8815-1039af0290f1}</Project>
       <Name>OgrIsler.DataAccess</Name>
     </ProjectReference>
+    <ProjectReference Include="..\OgrIsler.Entities\OgrIsler.Entities.csproj">
+      <Project>{93F41A07-F63B-403A-AA98-A2C9CC986171}</Project>
+      <Name>OgrIsler.Entities</Name>
+    </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Abstract\" />
-    <Folder Include="Concrete\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
